@@ -17,9 +17,9 @@
 
 I am running Java openjdk 16
 
-```bash
+
 ![](/assets/java_version.png)
-```
+
 
 To run the Java program (in `newmath_java`), first I compile it
 
