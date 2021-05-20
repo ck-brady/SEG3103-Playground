@@ -2,10 +2,10 @@
 
 | Outline | Value |
 | --- | --- |
-| Course | SEG 3X03 |
+| Course | SEG 3103 |
 | Date | Summer 2021 |
 | Professor | Andrew Forward, aforward@uottawa.ca |
-| TA | James Url, jamesurl@uottawa.ca |
+| TA | zkaka044@uottawa.ca |
 | Team | Andrew Forward 1484511<br>Ayana Forward 9021000 |
 
 ## Deliverables
@@ -18,10 +18,7 @@
 I am running Java openjdk 16
 
 ```bash
-$ java --version
-openjdk 16 2021-03-16
-OpenJDK Runtime Environment (build 16+14)
-OpenJDK 64-Bit Server VM (build 16+14, mixed mode)
+![](/assets/java_version.png)
 ```
 
 To run the Java program (in `newmath_java`), first I compile it
