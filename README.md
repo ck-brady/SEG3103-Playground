@@ -1,6 +1,7 @@
 # Lab 01
 
 Edited by Charie Brady, 300043672
+Repo cloned from: [https://github.com/aforward/seg3103_playground/tree/main/lab01](https://github.com/aforward/seg3103_playground/tree/main/lab01)
 
 | Outline | Value |
 | --- | --- |
@@ -9,11 +10,6 @@ Edited by Charie Brady, 300043672
 | Professor | Andrew Forward, aforward@uottawa.ca |
 | TA | zkaka044@uottawa.ca |
 | Team | Andrew Forward 1484511<br>Ayana Forward 9021000 |
-
-## Deliverables
-
-* [https://github.com/aforward/seg3103_playground/tree/main/lab01](https://github.com/aforward/seg3103_playground/tree/main/lab01)
-* Shared repo above with TA and Professors
 
 ### Java
 
